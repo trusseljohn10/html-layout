@@ -1,0 +1,37 @@
+.blue {
+  width: 33.3%;
+  height: 900px;
+  background-color: #00b8ff;
+  float: left;
+}
+
+.teal {
+  width: 33.3%;
+  height: 900px;
+  background-color: #5bd1b9;
+  float: left;
+}
+
+.green {
+  width: 33.3%;
+  height: 900px;
+  background-color: #b7d944;
+  float: left;
+}
+
+footer {
+  width: 33.3%;
+  height: 200px;
+  background-color: red;
+  position: relative;
+  left: 720px;
+  top: 700px;
+}
+
+p {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  font-size: 33px;
+  color: white;
+}

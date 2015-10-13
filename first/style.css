@@ -1,0 +1,29 @@
+header {
+  width: 100%;
+  height: 200px;
+  background-color: gray;
+
+}
+
+.left {
+  width: 140px;
+  height: 940px;
+  background-color: #d2d0d0;
+  float: left;
+
+}
+
+.right {
+  width: 140px;
+  height: 940px;
+  background-color: #d2d0d0;
+  float: right;
+    
+}
+
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  margin-top: 890px;
+}
